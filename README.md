@@ -33,6 +33,9 @@ they go live — reducing content moderation workload.
 - False positives when questions share common words
 - Next step: Replace TF-IDF with BERT sentence transformers
 
+## Live Demo
+[Click here to try it](https://biswa-duplicate-detector.streamlit.app/)
+
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
