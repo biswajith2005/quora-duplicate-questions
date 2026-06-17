@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data (too large for GitHub)
+train.csv
+*.csv
+
+# VS Code
+.vscode/
