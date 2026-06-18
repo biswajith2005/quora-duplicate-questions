@@ -70,4 +70,4 @@ if st.button("Check", use_container_width=True):
             st.write(f"Token sort ratio: {fuzz.token_sort_ratio(q1, q2)}%")
 
 st.divider()
-st.caption("Built by Biswa | NLP Project | Accuracy: 79.03%")
+st.caption(" NLP Project | Accuracy: 79.03%")
